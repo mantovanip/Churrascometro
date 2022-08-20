@@ -1,0 +1,94 @@
+    .container {
+        text-shadow: none;
+        font-size: 22px;
+        color: black;
+        font-family: 'Times New Roman', Times, serif;
+        text-align: center;
+        max-width: 300px;
+        margin: auto;
+        padding: 10px 5px 10px 5px;
+        background-color: rgb(198, 192, 192);
+        border-radius: 10px;
+
+
+    }
+
+    .result-block {
+        display: flex;
+        align-items: center;
+        margin: 0.5rem;
+      }
+
+      .result-block img {
+        width: 1.9rem;
+        height: 1.9rem;
+        margin: 0;
+        margin-right: 0.5rem;
+      }
+      .result-block p {
+        font-family:'Courier New', Courier, monospace;
+        text-align: center;
+        color: rgb(44, 44, 44);
+      }
+    #button {
+
+        width: 12.0rem;
+        height: 3.0rem;
+        background: #7b786e;
+        color: rgb(7, 7, 7);
+
+        border: none;
+        border-radius: 1.5rem;
+
+        text-align: center;
+        margin-top: 10px;
+
+           }
+
+    .input-names {
+        color: rgb(15, 21, 17);
+        font-size: 89%;
+    }
+
+    input {
+        padding: 2px;
+        text-align: center;
+        font-size: 70%;
+        font-style: italic;
+        color: #57544b;
+        width: 90%;
+        height: 1.9rem;
+        background: #fafafc;
+        border: 5px;
+        border-radius: 0.5rem;
+
+
+    }
+
+    .text-content {
+
+        text-shadow: 2px 2px rgb(4, 4, 4);
+        color: rgb(254, 255, 251);
+        font-size: 3.5pc;
+        text-align: center;
+        background-size: auto;
+
+
+    }
+
+
+
+
+    body {
+
+        background: url(../IMG/churras1.jpeg);
+        background-size: cover;
+        background-repeat: no-repeat;
+        margin-bottom: 100px;
+    }
+
+
+
+
+    
+       
