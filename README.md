@@ -1,4 +1,4 @@
-# Churrascometo
+# Churrascometro
 
 📋 Sobre o Projeto
 
